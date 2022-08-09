@@ -1,0 +1,2 @@
+INSERT INTO categories (name) VALUES ('Phones'), ('TV'), ('Electronics'),('Mobile');
+INSERT INTO items (name, price, amount) VALUES ('Iphone 13', 400000, 10), ('Iphone 11', 200000, 15), ('Iphone 12', 300000, 20);
